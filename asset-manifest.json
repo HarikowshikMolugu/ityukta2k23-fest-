@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ityukta2k23-fest-/static/css/main.2bc0756d.css",
+    "main.js": "/ityukta2k23-fest-/static/js/main.4431f885.js",
+    "index.html": "/ityukta2k23-fest-/index.html",
+    "main.2bc0756d.css.map": "/ityukta2k23-fest-/static/css/main.2bc0756d.css.map",
+    "main.4431f885.js.map": "/ityukta2k23-fest-/static/js/main.4431f885.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bc0756d.css",
+    "static/js/main.4431f885.js"
+  ]
+}
