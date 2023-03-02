@@ -17,7 +17,7 @@ function Navbar() {
         ITYUKTA 2K<b id="idol-1">23</b>
       </p>
       <nav ref={navRef}>
-        <a href="*" style={{ color: "#00A1F1" }}>
+        <a href="/" style={{ color: "#00A1F1" }}>
           Home
         </a>
         <div className="dropdown">
