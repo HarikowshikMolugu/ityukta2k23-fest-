@@ -19,7 +19,7 @@ function Navbar() {
        <img className="main-icon" src="/images/mainlogo.png" />
        <p id="idol">ITYUKTA 2K<b id="idol-1">23</b></p>
       <nav ref={navRef}>
-        <a href="/" style={{color:"#00A1F1"}}>Home</a>
+        <a href="*" style={{color:"#00A1F1"}}>Home</a>
         <div className="dropdown">
         <a className="dropbtn" href="/Workshop">Workshops </a>
         <div className="dropdown-content" style={{marginTop:"100px"}}>
