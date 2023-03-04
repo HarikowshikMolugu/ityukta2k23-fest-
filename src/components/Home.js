@@ -139,7 +139,7 @@ function Home() {
               <div id="m-co-content">
                 <p id="m-co-h">
                   <u>
-                    <b>STUDENT MALE COORDINATOR</b>
+                    <b>STUDENT COORDINATOR</b>
                   </u>
                 </p>
                 <p id="m-co-n">K. VENKATA RAMANA</p>
@@ -158,16 +158,16 @@ function Home() {
               <div id="fe-co-content">
                 <p id="fe-co-h">
                   <u>
-                    <b>STUDENT FEMALE COORDINATOR</b>
+                    <b>STUDENT COORDINATOR</b>
                   </u>
                 </p>
                 <p id="fe-co-n">N. PRAMEELA</p>
-                <p id="fe-co-d">
-                  Contact no:
-                  <a style={{ textDecoration: "none" }} href="tel:8978780424">
-                    8978780424
-                  </a>
-                </p>
+//                 <p id="fe-co-d">
+//                   Contact no:
+//                   <a style={{ textDecoration: "none" }} href="tel:8978780424">
+//                     8978780424
+//                   </a>
+//                 </p>
               </div>
             </div>
           </div>
