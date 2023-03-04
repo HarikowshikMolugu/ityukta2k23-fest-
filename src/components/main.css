@@ -1284,7 +1284,7 @@ td a {
 
     #pow{width: 100%;margin-left: 0;margin-right: 0;padding: 1px;border-radius: 10px; height: 100%;}
     #pow-head{margin:0;height: fit-content;margin-top: 15px;width: 80%;margin-left: 10%;margin-right: 10%;}
-    #pow-name{padding: 0;font-size: 30px;margin: 0;padding: 3px;}
+   #pow-name{padding: 0;font-size: 25px;margin: 0;padding: 3px;padding-right: 7px;}
     #pow-head p{padding-top: 2px;font-size: 10px;}
     
     .about{width: 98%;margin-left: 1%;margin-right: 1%;padding: 10px;}
