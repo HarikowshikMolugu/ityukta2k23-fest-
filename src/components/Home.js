@@ -222,19 +222,15 @@ function Home() {
               }`}
               onAnimationEnd={onAnimationEnd}
             >
-              This General Registration gives the allowance to register in any
+              This General Registration gives the allowance to participate and register in any
               WORKSHOP or EVENT.
               <br />
-              So for any candidate to parctipate in ane WORKSHOP or EVENT must
-              have to pay the general registration fee.
-              <br />
-              This Registration give the permisson to allow you into the fest
-              and also it acts as an entry fee to the fest.
+              This Registration Fee acts as an entry fee to the fest.
               <br />
               <br />
               <p>
                 <b style={{ color: "#A4C636" }}>
-                  GENERAL REGISTRATION FEE (per person) :
+                  GENERAL REGISTRATION FEE (per person including lunch) :
                 </b>{" "}
                 <b style={{ color: "whitesmoke", fontWeight: "500" }}>200/-</b>
               </p>
