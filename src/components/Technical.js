@@ -112,10 +112,10 @@ function Technical(){
             <a href="/cdr" id="link1" style={{textDecoration:"none",color:"black"}}>
                 <div id="te1" ref={target1} className={`animate__animated ${isVisible1 ? 'animate__zoomIn' : ''}`} onAnimationEnd={onAnimationEnd}>
                     <div id="te-logo">
-                    <img src="/images/CDRL.jpg"></img>
+                    <img src="/images/CDRL.png"></img>
                     </div>
                     <div id="te-content">
-                        <div style={{backgroundColor:"#013158",borderLeft:"5px solid #A4C639",borderRight:"5px solid #A4C639",width:"100%"}}><p id="te-head">Code Debugging</p></div>
+                        <div style={{backgroundColor:"#013158",borderLeft:"5px solid #A4C639",borderRight:"5px solid #A4C639",width:"100%"}}><p id="te-head">Debugging</p></div>
                         <div id="sub-line"><p>It involves participants in trying to code according to the given output . The participant must be able to fix the errors in a given  time.</p></div>
                         {/* <div id="reg"><a href="/cdr"><p id="reg-bt">Register</p></a></div> */}
                     </div>
@@ -174,7 +174,7 @@ function Technical(){
               <a href="/pptr" id="link6" style={{textDecoration:"none",color:"black"}}>
                 <div id="te6"ref={target6} className={`animate__animated ${isVisible6 ? 'animate__zoomIn' : ''}`} onAnimationEnd={onAnimationEnd}>
                     <div id="te-logo">
-                    <img src="/images/PPTRL.jpg"></img>
+                    <img src="/images/PPTRL.png"></img>
                     </div>
                     <div id="te-content">
                       <div style={{backgroundColor:"#013158",borderLeft:"5px solid #A4C639",borderRight:"5px solid #A4C639",width:"100%"}}><p id="te-head">Power point presentation</p></div>
