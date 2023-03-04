@@ -177,7 +177,7 @@ function Technical(){
                     <img src="/images/PPTRL.jpg"></img>
                     </div>
                     <div id="te-content">
-                      <div style={{backgroundColor:"#013158",borderLeft:"5px solid #A4C639",borderRight:"5px solid #A4C639",width:"100%"}}><p id="te-head">Power point presentatiom</p></div>
+                      <div style={{backgroundColor:"#013158",borderLeft:"5px solid #A4C639",borderRight:"5px solid #A4C639",width:"100%"}}><p id="te-head">Power point presentation</p></div>
                       <div id="sub-line"><p>A Power Point Presentation is a digital slide show created using Microsoft PowerPoint software.The best presentation will declared as winner</p></div>
                       {/* <div id="reg"><a href="/pptr"><p id="reg-bt">Register</p></a></div> */}
                       </div>
