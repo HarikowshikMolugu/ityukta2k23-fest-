@@ -22,7 +22,7 @@ const SLR = () => {
         </tr>
         <tr>
           <td id='co-name'>D.VISHNU PRIYA</td>
-          <td><a href='tel:7993879157'>7993879157</a></td>
+          <td></td>
         </tr>
        </table><br/>
        
