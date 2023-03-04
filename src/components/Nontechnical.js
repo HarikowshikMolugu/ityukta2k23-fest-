@@ -169,7 +169,7 @@ function Nontechnical(){
               <a href="/rcr" id="link5"style={{textDecoration:"none",color:"black"}}>
                 <div id="te5"ref={target5} className={`animate__animated ${isVisible5 ? 'animate__zoomIn' : ''}`} onAnimationEnd={onAnimationEnd}>
                     <div id="te-logo">
-                    <img src="/images/RCRL.jpg"></img>
+                    <img src="/images/RCRL.png"></img>
                     </div>
                     <div id="te-content">
                      <div style={{backgroundColor:"#013158",borderLeft:"5px solid #A4C639",borderRight:"5px solid #A4C639",width:"100%"}}><p id="te-head">Rubik's cube</p></div>
@@ -181,7 +181,7 @@ function Nontechnical(){
               <a href="/ssr" id="link6" style={{textDecoration:"none",color:"black"}}>
                 <div id="te6"ref={target6} className={`animate__animated ${isVisible6 ? 'animate__zoomIn' : ''}`} onAnimationEnd={onAnimationEnd}>
                     <div id="te-logo">
-                    <img src="/images/SSRL.jpg"></img>
+                    <img src="/images/SSRL.png"></img>
                     </div>
                     <div id="te-content">
                     <div style={{backgroundColor:"#013158",borderLeft:"5px solid #A4C639",borderRight:"5px solid #A4C639",width:"100%"}}><p id="te-head">Sight on Site</p></div>
