@@ -44,7 +44,7 @@ Web development can be done by individuals or teams of developers, and can range
            <div id='reg'><a id='reg-btn' href='https://docs.google.com/forms/d/e/1FAIpQLSeOxSPdLy6UpDJd5Hh8D94ynBFTVlHfyojPdz_fh1feG3qQTw/viewform?usp=sf_link'>Register</a></div>
           </div>
           <div id='poster'>
-        <img src="/images/WBDRL.jpg"></img>
+        <img src="/images/WBDRL.png"></img>
         </div>
         </div>
 
