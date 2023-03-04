@@ -45,7 +45,7 @@ Together, data analytics and visualization can help organizations and individual
          
         </div>
         <div id='poster'>
-        <img src="/images/DVRL.png"></img>
+        <img src="/images/DVRL.jpg"></img>
         </div>
       </div>
     </div>
