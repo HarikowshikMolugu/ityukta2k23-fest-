@@ -133,7 +133,7 @@ function Nontechnical(){
                     </div>
                     <div id="te-content">
                     <div style={{backgroundColor:"#013158",borderLeft:"5px solid #A4C639",borderRight:"5px solid #A4C639",width:"100%"}}><p id="te-head">Movie minds</p></div>
-                    <div id="sub-line"><p>Movie Minds is a guessing game in which players try to identify the title of a movie based on clues The movie names has to guess correctly.</p></div>
+                    <div id="sub-line"><p>Movie Minds is a guessing game in which players try to identify the title of a movie based on clues The movie names has to be guessed correctly.</p></div>
                     {/* <div id="reg"><a href="/mmr"><p id="reg-bt">Register</p></a></div> */}
                     </div> 
                 </div>
@@ -160,7 +160,7 @@ function Nontechnical(){
                   </div>
                   <div id="te-content">
                   <div style={{backgroundColor:"#013158",borderLeft:"5px solid #A4C639",borderRight:"5px solid #A4C639",width:"100%"}}><p id="te-head">Rapid Typing</p></div>
-                  <div id="sub-line"><p>A Rapid Typing competition is a typing competition where participants compete to see who can type the fastest and most accurately.</p></div> 
+                  <div id="sub-line"><p>The Rapid Typing competition is a typing competition where participants compete to see who can type the fastest and most accurately.</p></div> 
                     {/* <div id="reg"><a href="/rtr"><p id="reg-bt">Register</p></a></div> */}
                   </div>
                 </div>
@@ -185,7 +185,7 @@ function Nontechnical(){
                     </div>
                     <div id="te-content">
                     <div style={{backgroundColor:"#013158",borderLeft:"5px solid #A4C639",borderRight:"5px solid #A4C639",width:"100%"}}><p id="te-head">Sight on Site</p></div>
-                    <div id="sub-line"><p>Clip will be shown and individual is to write few lines on it in 2 minutes and 
+                    <div id="sub-line"><p>Clip will be shown and individual has to write few lines on it in 2 minutes and 
 short video clips will be shown and based on that questions will be asked.</p></div>
                     {/* <div id="reg"><a href="/ssr"><p id="reg-bt">Register</p></a></div> */}
                     </div>
