@@ -198,7 +198,7 @@ function Home() {
                 </p>
                 <br />
                 <p id="e-matter">
-                  A flashmob is a type of impromptu performance where a group of
+                  A flashmob is a type of performance where a group of
                   people suddenly come together in a public space to perform a
                   coordinated action, such as a dance or a musical
                   performance.It is conducted on{" "}
