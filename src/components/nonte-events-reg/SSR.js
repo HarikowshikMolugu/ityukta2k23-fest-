@@ -26,7 +26,7 @@ short video clips will be shown and based on that questions will be asked.
         </tr>
         <tr>
           <td id='co-name'>S.SHARMILA</td>
-          <td><a href='tel:6305391594'>6305391594</a></td>
+          <td></td>
         </tr>
        </table><br/>
        
@@ -39,7 +39,7 @@ short video clips will be shown and based on that questions will be asked.
          <div id='reg'><a id='reg-btn' href='https://docs.google.com/forms/d/e/1FAIpQLSdYlDVQiL-qL_tm88X85sRmDDOPjsYo0hD4CT8qqeh6vMz4Dg/viewform?usp=sf_link'>Register</a></div>
       </div>
       <div id='poster'>
-        <img src="/images/SSRL.jpg"></img>
+        <img src="/images/SSRL.png"></img>
         </div>
     </div>
   </div>
