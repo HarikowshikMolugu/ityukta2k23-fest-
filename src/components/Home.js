@@ -168,12 +168,7 @@ function Home() {
                   </u>
                 </p>
                 <p id="fe-co-n">N. PRAMEELA</p>
-//                 <p id="fe-co-d">
-//                   Contact no:
-//                   <a style={{ textDecoration: "none" }} href="tel:8978780424">
-//                     8978780424
-//                   </a>
-//                 </p>
+
               </div>
             </div>
           </div>
