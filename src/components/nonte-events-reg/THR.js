@@ -23,7 +23,7 @@ const THR = () => {
         </tr>
         <tr>
           <td id='co-name'>P.KRISHNA PRIYA</td>
-          <td><a href='tel:9573711360'>9573711360</a></td>
+          <td></td>
         </tr>
        </table><br/>
       
