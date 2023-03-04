@@ -235,7 +235,7 @@ function Home() {
                 <b style={{ color: "#A4C636" }}>
                   GENERAL REGISTRATION FEE (per person) :
                 </b>{" "}
-                <b style={{ color: "whitesmoke", fontWeight: "500" }}>100 Rs</b>
+                <b style={{ color: "whitesmoke", fontWeight: "500" }}>200/-</b>
               </p>
               <br />
               <p>
@@ -249,7 +249,7 @@ function Home() {
                 <b style={{ color: "#A4C636" }}>PAY WITH QR CODE :</b>
               </p>
               <div className="qr-div">
-                <img src="/images/QRCode_100Rs.jpg" className="qr"></img>
+                <img src="/images/QRCode_200Rs.jpg" className="qr"></img>
               </div>
               <div id="reg-1">
                 <a
