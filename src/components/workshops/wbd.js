@@ -21,16 +21,12 @@ Web development can be done by individuals or teams of developers, and can range
               <td>Contact no</td>
             </tr>
             <tr>
-              <td id='co-name'>H.VAMSHI </td>
-              <td><a href='tel:7731958862'>7731958862</a></td>
+              <td id='co-name'>T.MUKUND</td>
+              <td><a href='tel:8523030292'>8523030292</a></td>
             </tr>
             <tr>
-              <td id='co-name'>M.PRASANTH</td>
-              <td><a href='tel:94919200312'>9491920031</a></td>
-            </tr>
-            <tr>
-              <td id='co-name'>P.DEEKSHITA</td>
-              <td><a href='tel:9492948540'>9492948540</a></td>
+              <td id='co-name'>P.DEEKSHITHA</td>
+              <td></td>
             </tr>
            </table><br/>
            <p><b style={{color:"#A4C636"}}>Event Date :</b>  <b style={{color:"whitesmoke",fontWeight:"500"}}>17th and 18th</b></p><br/>
