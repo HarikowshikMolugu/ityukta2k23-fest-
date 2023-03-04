@@ -127,7 +127,7 @@ function Technical(){
                     <img src="/images/WDRL.jpg"></img>
                     </div>
                     <div id="te-content">
-                    <div style={{backgroundColor:"#013158",borderLeft:"5px solid #A4C639",borderRight:"5px solid #A4C639",width:"100%"}}><p id="te-head">Web Design</p></div>
+                    <div style={{backgroundColor:"#013158",borderLeft:"5px solid #A4C639",borderRight:"5px solid #A4C639",width:"100%"}}><p id="te-head">Web Designing</p></div>
                     <div id="sub-line"><p>A web design competition is an event or contest where web designers and developers compete against each other by creating websites.</p></div>
                     {/* <div id="reg"><a href="/wdr"><p id="reg-bt">Register</p></a></div> */}
                     </div> 
