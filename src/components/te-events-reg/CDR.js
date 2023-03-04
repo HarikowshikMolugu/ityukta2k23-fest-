@@ -8,7 +8,7 @@ const CDR = () => {
         
         <p id='r-head'>About Event</p><br/>
         {/* <hr id='line2'></hr><br></br> */}
-        <p id='r-content'>CodeDebugging is the process of identifying and fixing errors or defects in computer code.
+        <p id='r-content'>Debugging is the process of identifying and fixing errors or defects in computer code.
         Debugging typically involves a systematic process of identifying the location and cause of an error and then making changes to the code to correct it.
         </p>
         <div id='r-coordinator'>
@@ -23,7 +23,7 @@ const CDR = () => {
           </tr>
           <tr>
             <td id='co-name'>A.VENKATA HARI PRAGNA</td>
-            <td><a href='tel:9493230947'>9493230947</a></td>
+            <td></td>
           </tr>
          </table><br/>
          <div id="r-sec">
@@ -45,7 +45,7 @@ const CDR = () => {
          <div id='reg'><a id='reg-btn' href='https://docs.google.com/forms/d/e/1FAIpQLSfwFJ-mvJNqY8SltKhcACY5bKbw3beWhPF82pKVtOkk0WRJpg/viewform?usp=sf_link'>Register</a></div>
         </div>
         <div id='poster'>
-        <img src="/images/CDRL.jpg"></img>
+        <img src="/images/CDRL.png"></img>
         </div>
       </div>
       
