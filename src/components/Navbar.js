@@ -12,7 +12,7 @@ function Navbar() {
 
   return (
     <header className="Nav">
-      <img className="main-icon" src="/images/mainlogo.png" />
+      <a href="/" className="idol"><img className="main-icon" src="/images/mainlogo.png" /></a>
       <p id="idol">
         ITYUKTA 2K<b id="idol-1">23</b>
       </p>
