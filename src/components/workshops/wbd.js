@@ -8,7 +8,7 @@ function wbd(){
           
           <p id='r-head'>About Workshop</p><br/>
   
-          <p id='r-content'>Web development typically begins with a planning phase where the goals and requirements of the website or web application are defined. This is followed by a design phase where the look and feel of the website is created. The programming phase involves the actual creation of the website using a combination of languages such as HTML, CSS, and JavaScript. Database management is also an important aspect of web development, as it involves the storage and retrieval of data used by the website or application.<br/>
+          <p id='r-content'>Full Stack development typically begins with a planning phase where the goals and requirements of the website or web application are defined. This is followed by a design phase where the look and feel of the website is created. The programming phase involves the actual creation of the website using a combination of languages such as HTML, CSS, and JavaScript. Database management is also an important aspect of web development, as it involves the storage and retrieval of data used by the website or application.<br/>
 
 Website maintenance is an ongoing task that involves updating the website to ensure it remains up-to-date and functioning properly. This may include updating content, fixing bugs, and implementing security measures to protect against cyber threats.<br/>
 
