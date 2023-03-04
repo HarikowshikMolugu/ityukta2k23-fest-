@@ -17,13 +17,17 @@ const WDR = () => {
             <td id='co-name'> Student Coordinator name</td>
             <td>Contact no</td>
           </tr>
+           <tr>
+            <td id='co-name'>B.SAI SATYAM </td>
+            <td><a href='tel:6309953674'>6309953674</a></td>
+          </tr>
           <tr>
             <td id='co-name'>B.SUMASRI </td>
-            <td><a href='tel:8639466717'>8639466717</a></td>
+            <td></td>
           </tr>
           <tr>
             <td id='co-name'>P.INDHUMATI</td>
-            <td><a href='tel:94414513850'>9441451385</a></td>
+            <td></td>
           </tr>
          </table><br/>
          <div id="r-sec">
