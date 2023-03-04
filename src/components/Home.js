@@ -144,9 +144,15 @@ function Home() {
                 </p>
                 <p id="m-co-n">K. VENKATA RAMANA</p>
                 <p id="m-co-d">
-                  Contact no:
+                  Contact no 1:
                   <a style={{ textDecoration: "none" }} href="tel:9381690958">
                     9381690958
+                  </a>
+                </p>
+                <p id="m-co-d">
+                  Contact no 2:
+                  <a style={{ textDecoration: "none" }} href="tel:9553599478">
+                    9553599478
                   </a>
                 </p>
               </div>
