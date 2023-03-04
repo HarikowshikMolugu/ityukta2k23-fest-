@@ -22,7 +22,7 @@ const RTR = () => {
         </tr>
         <tr>
           <td id='co-name'>B.YATEESHA</td>
-          <td><a href='tel:8106105986'>8106105986</a></td>
+          <td></td>
         </tr>
        </table><br/>
        
