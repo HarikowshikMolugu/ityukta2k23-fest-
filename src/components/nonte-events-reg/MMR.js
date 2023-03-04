@@ -21,7 +21,7 @@ const MMR = () => {
             <td><a href='tel:9121761764'>9121761764</a></td>
           </tr>
           <tr>
-            <td id='co-name'>A.VENKATA HARI PRAGNA</td>
+            <td id='co-name'>B.TULASI ASHA</td>
             <td></td>
           </tr>
          </table><br/>
