@@ -56,7 +56,7 @@ function Navbar() {
         </div>
         <div className="dropdown">
           <a className="dropbtn" href="/NonTechnical">
-            NonTechnical Events{" "}
+            Non-Technical Events{" "}
           </a>
           <div className="dropdown-content" style={{ marginTop: "290px" }}>
             <a href="/slr" id="dd">
@@ -77,7 +77,7 @@ function Navbar() {
             <a href="/ssr">Sight on Sight</a>
           </div>
         </div>
-        <a href="/Meetus">Contactus</a>
+        <a href="/Meetus">Contact us</a>
 
         <button className="nav-btn nav-close-btn" onClick={showNavbar}>
           <FaTimes />
