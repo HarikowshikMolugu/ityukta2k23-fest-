@@ -22,7 +22,7 @@ const RCR = () => {
           </tr>
           <tr>
             <td id='co-name'>Y.KALYANI</td>
-            <td><a href='tel:6309920407'>6309920407</a></td>
+            <td></td>
           </tr>
          </table><br/>
         
@@ -35,7 +35,7 @@ const RCR = () => {
          <div id='reg'><a id='reg-btn' href='https://docs.google.com/forms/d/e/1FAIpQLSdYlDVQiL-qL_tm88X85sRmDDOPjsYo0hD4CT8qqeh6vMz4Dg/viewform?usp=sf_link'>Register</a></div>
         </div>
         <div id='poster'>
-        <img src="/images/RCRL.jpg"></img>
+        <img src="/images/RCRL.png"></img>
         </div>
       </div>
     </div>
