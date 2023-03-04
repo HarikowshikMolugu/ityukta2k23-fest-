@@ -25,11 +25,11 @@ Together, data analytics and visualization can help organizations and individual
           </tr>
           <tr>
             <td id='co-name'>M.AMRUTHA</td>
-            <td><a href='tel:9392378992'>9392378992</a></td>
+            <td></td>
           </tr>
           <tr>
             <td id='co-name'>B.KAVYA SRI</td>
-            <td><a href='tel:7702254579'>7702254579</a></td>
+            <td></td>
           </tr>
          </table><br/>
          <p><b style={{color:"#A4C636"}}>Event Date :</b>  <b style={{color:"whitesmoke",fontWeight:"500"}}>17th and 18th</b></p><br/>
