@@ -1370,4 +1370,6 @@ td a {
     #fb-logo{width: 90%;height: 200px;}
     #fb-content{width: 90%;height: fit-content;padding-left: 0}
     #poster{height: 300px;width: 95%;margin-left: 2.5%;margin-right: 2.5%;}
+      #te-head{font-size: 22px;padding-top: 5px;padding-bottom: 5px;}
+    #sub-line p{font-size: 17px;}
 }
