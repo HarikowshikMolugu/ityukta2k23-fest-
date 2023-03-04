@@ -52,7 +52,7 @@ function Workshop(){
           <a href="/dv" id="w-link1" style={{textDecoration:"none",color:"black"}}>
             <div id="workshop1" ref={target1} className={`animate__animated ${isVisible1 ? 'animate__zoomIn' : ''}`} onAnimationEnd={onAnimationEnd}>
             <div id="workshop1-logo">
-            <img src="/images/DVRL.png"></img>
+            <img src="/images/DVRL.jpg"></img>
             </div>
             <div id="head-div"><p id="head">Data Analytics and Visualization</p></div>
             <div id="workshop1-content">
