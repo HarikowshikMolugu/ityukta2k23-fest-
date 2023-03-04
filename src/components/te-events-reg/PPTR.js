@@ -22,7 +22,7 @@ const CDR = () => {
           </tr>
           <tr>
             <td id='co-name'>G.DURGA BHAVANI</td>
-            <td><a href='tel:8919379920'>8919379920</a></td>
+            <td></td>
           </tr>
          </table><br/>
          <div id="r-sec">
@@ -44,7 +44,7 @@ const CDR = () => {
          <div id='reg'><a id='reg-btn' href='https://docs.google.com/forms/d/e/1FAIpQLSfwFJ-mvJNqY8SltKhcACY5bKbw3beWhPF82pKVtOkk0WRJpg/viewform?usp=sf_link'>Register</a></div>
         </div>
         <div id='poster'>
-        <img src="/images/PPTRL.jpg"></img>
+        <img src="/images/PPTRL.png"></img>
         </div>
       </div>
 
