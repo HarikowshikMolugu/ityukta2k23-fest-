@@ -23,7 +23,7 @@ const PER = () => {
           </tr>
           <tr>
             <td id='co-name'>B.GAYATRI</td>
-            <td><a href='tel:7013848397'>7013848397</a></td>
+            <td></td>
           </tr>
          </table><br/>
          <div id="r-sec">
