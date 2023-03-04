@@ -22,7 +22,7 @@ const TQR = () => {
           </tr>
           <tr>
             <td id='co-name'>G.RADHA NAGA DEVI</td>
-            <td><a href='tel:6309142530'>6309142530</a></td>
+            <td></td>
           </tr>
          </table><br/>
          <div id="r-sec">
