@@ -6,6 +6,7 @@ import Home from "./components/Home";
 import Workshop from "./components/Workshop";
 import Technical from "./components/Technical";
 import Nontechnical from "./components/Nontechnical";
+import Sponsors from './components/Sponsors';
 import Meetus from "./components/Meetus";
 import WDR from "./components/te-events-reg/WDR";
 import CDR from "./components/te-events-reg/CDR";
@@ -50,6 +51,7 @@ function App() {
         <Route path="/Workshop" element={<Workshop />} />
         <Route path="/Technical" element={<Technical />} />
         <Route path="/Nontechnical" element={<Nontechnical />} />
+        <Route path='/Sponsors' element={<Sponsors/>}/>
         <Route path="/Meetus" element={<Meetus />} />
         <Route path="/" element={<Home />} />
         <Route path="*" element={<Pagenotfound />} />
