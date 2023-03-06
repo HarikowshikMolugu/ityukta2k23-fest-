@@ -1218,6 +1218,10 @@ td a {
 .my-social-icon-2{
     height: 25px;
 }
+.copy-icon{
+    height: 20px;
+    margin-right: -120px;
+}
 .sponsers{
     background-color: #013158;
     height: 100vh;
