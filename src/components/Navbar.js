@@ -77,6 +77,7 @@ function Navbar() {
             <a href="/ssr">Sight on Sight</a>
           </div>
         </div>
+         <a href="/Accomadation">Accommodation</a>
          <a href="/Sponsors">Sponsors</a>
         <a href="/Meetus">Contact us</a>
 
