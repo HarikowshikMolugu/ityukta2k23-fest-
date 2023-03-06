@@ -15,7 +15,7 @@ const FOOTER = () => {
         <a className='a-my-social-icon' href="https://github.com/HarikowshikMolugu">
           <img className="my-social-icon-2" src="/images/github.svg" />
         </a>
-         <img className='my-social-icon-2' src="/images/copyright-regular.svg"></img>
+         
         </div>
           <p id='fo-name'>Designed by  <b>Hari kowshik Molugu</b></p>
         </div>
