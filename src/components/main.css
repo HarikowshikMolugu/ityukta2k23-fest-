@@ -1220,8 +1220,8 @@ td a {
 	margin-right: 15px;
 }
 .copy-icon{
-    height: 15px;
-   
+    height: 20px;
+    width:20px;
 }
 .sponsers{
     background-color: #013158;
@@ -1380,8 +1380,8 @@ td a {
     #fo-content-1{display: flex;flex-direction: row;justify-content: right;}
     .a-my-social-icon{height: fit-content;width: fit-content;margin-right: 5px;}
     .my-social-icon-1{height: 15px;margin-right: 0;}
-    .my-social-icon-2{height: 15px;margin-right:0;}
-	.copy-icon{margin-right:-45px;}
+    .my-social-icon-2{height: 15px;margin-right:2px;}
+	.copy-icon{height: 13px;width: 13px;}
     .dance{width: 100%;}
     #dance-e{width: 94%;margin-left: 3%;margin-right: 3%;}
     #cul{flex-direction: column;margin-bottom: 10px;padding-bottom: 0;}
