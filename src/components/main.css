@@ -93,6 +93,7 @@ header{
     -webkit-text-stroke: 1px #A4C639;
 }
 #idol-2{
+	margin-right: 30px;
     color: #A4C639;
     font-weight: 900;
     font-size: 22px;
@@ -1219,6 +1220,10 @@ td a {
     height: 25px;
 	margin-right: 15px;
 }
+#copyr{
+    color: white;
+    font-size: 10px;
+}
 .copy-icon{
     height: 20px;
     width:20px;
@@ -1375,7 +1380,10 @@ td a {
     #name{font-size: 18px;}
     #degree{font-size: 15px;}
     .fo-head{padding: 15px;}
-    #fo-name{font-size: 8px;font-weight: 500;margin-left:0}
+    #fo-icons{flex-direction: column;
+    }
+    #copyr{margin-left: 5px;font-size: 8px;padding-top: 2px;}
+    #fo-name{font-size: 8px;font-weight: 500;margin-left: 0;}
     #fo-content{flex-direction: column;}
     #fo-content-1{display: flex;flex-direction: row;justify-content: right;}
     .a-my-social-icon{height: fit-content;width: fit-content;margin-right: 5px;}
