@@ -17,7 +17,11 @@ const FOOTER = () => {
         </a>
          
         </div>
+          <div style={{display:"flex",flexDirection:"row"}}>
+            <img src='/images/copyright-regular.svg' className='copy-icon'></img>
+          
           <p id='fo-name'>Designed by  <b>Hari kowshik Molugu</b></p>
+          </div>
         </div>
     </div>
   )
