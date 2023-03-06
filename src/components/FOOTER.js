@@ -5,7 +5,7 @@ const FOOTER = () => {
     <div className='fo-head' >
         <div id='fo-icons'>
         <p id="idol-2">ITYUKTA 2K<b id="idol-3">23</b></p>
-        <p id='copyr'>Copyrights reserved</p>
+        <p id='copyr'>ALL Rights Reserved</p>
         </div>
         
         <div id='fo-content'>
