@@ -5,6 +5,7 @@ const FOOTER = () => {
     <div className='fo-head' >
         <div id='fo-icons'>
         <p id="idol-2">ITYUKTA 2K<b id="idol-3">23</b></p>
+        <p id='copyr'>Copyrights reserved</p>
         </div>
         
         <div id='fo-content'>
@@ -15,7 +16,7 @@ const FOOTER = () => {
         <a className='a-my-social-icon' href="https://github.com/HarikowshikMolugu">
           <img className="my-social-icon-2" src="/images/github.svg" />
         </a>
-          <img src='/images/copyright.png' className='copy-icon'></img>
+        
         </div>
           
            
