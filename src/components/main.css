@@ -1186,6 +1186,8 @@ td a {
     display: flex;
     flex-direction: row;
     justify-content: right;
+	
+    align-items: center;
     width: 40%;
     margin-left: 5%;
     margin-right: 5%;
