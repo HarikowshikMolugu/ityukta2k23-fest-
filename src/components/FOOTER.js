@@ -15,13 +15,13 @@ const FOOTER = () => {
         <a className='a-my-social-icon' href="https://github.com/HarikowshikMolugu">
           <img className="my-social-icon-2" src="/images/github.svg" />
         </a>
-         
+          <img src='/images/copyright.png' className='copy-icon'></img>
         </div>
-          <div style={{display:"flex",flexDirection:"row"}}>
-            <img src='/images/copyright-regular.svg' className='copy-icon'></img>
+          
+           
           
           <p id='fo-name'>Designed by  <b>Hari kowshik Molugu</b></p>
-          </div>
+        
         </div>
     </div>
   )
