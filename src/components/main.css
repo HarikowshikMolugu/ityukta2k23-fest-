@@ -1217,6 +1217,7 @@ td a {
 }
 .my-social-icon-2{
     height: 25px;
+	margin-right: 15px;
 }
 .copy-icon{
     height: 15px;
@@ -1379,7 +1380,7 @@ td a {
     #fo-content-1{display: flex;flex-direction: row;justify-content: right;}
     .a-my-social-icon{height: fit-content;width: fit-content;margin-right: 5px;}
     .my-social-icon-1{height: 15px;margin-right: 0;}
-    .my-social-icon-2{height: 15px;}
+    .my-social-icon-2{height: 15px;margin-right:0;}
 	.copy-icon{margin-right:-45px;}
     .dance{width: 100%;}
     #dance-e{width: 94%;margin-left: 3%;margin-right: 3%;}
