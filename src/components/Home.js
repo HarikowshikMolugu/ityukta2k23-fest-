@@ -94,14 +94,7 @@ function Home() {
           </div>
         </div>
 
-        <div id="sponsers">
-          <p id="legend1">
-            <b>Sponsors</b>
-          </p>
-          <hr id="line3"></hr>
-          <p id="sponsers-content"></p>
-          <div></div>
-        </div>
+        
         <div id="e-total">
           <div id="e-head1">
             <div id="c-p">
@@ -266,6 +259,7 @@ function Home() {
             </div>
           </p>
         </div>
+        <p style={{color:"white"}} className="clg">To know more about Information Technology branch in JNTU-GV <a style={{textDecoration:"none" ,color:"red"}} href="https://jntukucev.ac.in/department/information-technology/hods-desk/">Click here</a>.</p>
       </div>
       <FOOTER></FOOTER>
     </div>
