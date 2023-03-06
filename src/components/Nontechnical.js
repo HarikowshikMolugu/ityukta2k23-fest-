@@ -156,7 +156,7 @@ function Nontechnical(){
               <a href="/rtr" id="link4" style={{textDecoration:"none",color:"black"}}>
                 <div id="te4"ref={target4} className={`animate__animated ${isVisible4 ? 'animate__zoomIn' : ''}`} onAnimationEnd={onAnimationEnd}>
                   <div id="te-logo">
-                  <img src="/images/RTRL.png"></img>
+                  <img src="/images/RTRL.jpg"></img>
                   </div>
                   <div id="te-content">
                   <div style={{backgroundColor:"#013158",borderLeft:"5px solid #A4C639",borderRight:"5px solid #A4C639",width:"100%"}}><p id="te-head">Rapid Typing</p></div>
