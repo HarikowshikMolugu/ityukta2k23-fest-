@@ -94,7 +94,7 @@ function Home() {
           </div>
         </div>
        
-       <div className="cg-total">
+      <div className="cg-total">
        <p id="cg-head">OUR CHEIFGUESTS</p>
         <hr id="cg-line"></hr>
        <div id="e-head0">
@@ -127,7 +127,6 @@ function Home() {
 
         </div>
        </div>
-        
         <div id="e-total">
         
           <div id="e-head1">
