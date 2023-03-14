@@ -104,7 +104,7 @@ function Home() {
             </div>
             <div id="c-p-content" style={{borderLeft:"3px solid #FF9900"}}>
             <p id="c-p-h"><u>CHEIFGUEST</u></p>
-            <p id="c-p-p" style={{marginBottom:"10px"}}>for Inaugration</p>
+            <p id="c-p-p" style={{marginBottom:"5px"}}>for Inaugration</p>
             <p id="c-p-n">Prof.J.V.R.Murthy</p>
             <p id="c-p-p">Advisor, Incubation Center JNTUK University</p>
             {/* <p id="c-p-d">Phd in MACHINE LEARNING</p> */}
@@ -117,7 +117,7 @@ function Home() {
           </div>
           <div id="fa-co-content" style={{borderLeft:"3px solid #FF9900"}}>
           <p id="fa-co-h"><u>CHEIFGUEST</u></p>
-          <p id="c-p-p"style={{marginBottom:"10px"}}>for Valedictory</p>
+          <p id="c-p-p"style={{marginBottom:"5px"}}>for Valedictory</p>
           <p id="fa-co-n">Josyula Srinivas</p>
           <p id="c-p-p">Associate Professor of Practice Information Systems</p>
           {/* <p id="fa-co-d">Phd in MACHINE LEARNING</p> */}
