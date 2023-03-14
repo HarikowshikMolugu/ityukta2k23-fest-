@@ -93,30 +93,30 @@ function Home() {
             </p>
           </div>
         </div>
-
-        
-        <div id="e-total">
-        <div id="e-head0">
-          <div id="c-p"  >
+        <div className="cg-total">
+       <p id="cg-head">OUR CHEIFGUESTS</p>
+        <hr id="cg-line"></hr>
+       <div id="e-head0">
+          <div id="cg1"  >
             <div id="cg1-logo">
-               <img src="/images/cg1.jpg"></img>
+               <img src={cg1}></img>
             </div>
-            <div id="c-p-content">
+            <div id="c-p-content" style={{borderLeft:"3px solid #FF9900"}}>
             <p id="c-p-h"><u>CHEIFGUEST</u></p>
-            <p id="c-p-p" style={{marginBottom:"5px"}}>for Inaugration</p>
+            <p id="c-p-p" style={{marginBottom:"10px"}}>for Inaugration</p>
             <p id="c-p-n">Prof.J.V.R.Murthy</p>
             <p id="c-p-p">Advisor, Incubation Center JNTUK University</p>
             {/* <p id="c-p-d">Phd in MACHINE LEARNING</p> */}
             </div>
             
           </div>
-          <div id="fa-co"   >
+          <div id="cg2"   >
           <div id="cg2-logo">
-          <img src="/images/cg2.jpg"></img>
+          <img src={cg2}></img>
           </div>
-          <div id="fa-co-content">
+          <div id="fa-co-content" style={{borderLeft:"3px solid #FF9900"}}>
           <p id="fa-co-h"><u>CHEIFGUEST</u></p>
-          <p id="c-p-p"style={{marginBottom:"5px"}}>for Valedictory</p>
+          <p id="c-p-p"style={{marginBottom:"10px"}}>for Valedictory</p>
           <p id="fa-co-n">Josyula Srinivas</p>
           <p id="c-p-p">Associate Professor of Practice Information Systems</p>
           {/* <p id="fa-co-d">Phd in MACHINE LEARNING</p> */}
@@ -125,6 +125,10 @@ function Home() {
           </div>
 
         </div>
+       </div>
+        
+        <div id="e-total">
+        
           <div id="e-head1">
             <div id="c-p">
               <div id="c-p-logo">
