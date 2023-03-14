@@ -355,6 +355,39 @@ a .social-icon {
     flex-direction: column;
     margin-top:80px;
 }
+#e-head0{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 50px;
+}
+#cg1-logo{
+    width: 15%;
+    margin-left: 5%;
+    margin-right: 2.5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#cg1-logo img{
+    width: 85px;
+    height: 85px;
+    border-radius: 50PX;
+}
+#cg2-logo{
+    width: 15%;
+    margin-left: 5%;
+    margin-right: 2.5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#cg2-logo img{
+    width: 85px;
+    height: 85px;
+    border-radius: 50PX;
+}
 #e-head1{
     width: 100%;
     display: flex;
@@ -1329,7 +1362,9 @@ td a {
     #line3{width: 50%;}
     #line4{width: 70%;}
     #about-content{font-size: 15px;font-weight: 700;}
-   
+     #e-head0{display: flex;flex-direction: column;margin-bottom: 10px;}
+    #cg1-logo img{height: 60px;width: 60px;}
+    #cg2-logo img{height: 60px;width: 60px;}
     #e-head1{display: flex;flex-direction: column;}
     #e-head2{display: flex;flex-direction: column;margin-top: 0;}
     #c-p{width: 100%;margin-bottom: 30px;margin-left: 0;margin-right: 0;}
