@@ -95,7 +95,7 @@ function Home() {
         </div>
        
       <div className="cg-total">
-       <p id="cg-head">OUR CHEIFGUESTS</p>
+       <p id="cg-head"><b>OUR CHEIFGUESTS</b></p>
         <hr id="cg-line"></hr>
        <div id="e-head0">
        <a href="https://www.jntucek.ac.in/faculty_profile/71/j.v.r._murthy" id="cg-link1">
