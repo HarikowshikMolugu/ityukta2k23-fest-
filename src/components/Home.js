@@ -79,7 +79,7 @@ function Home() {
             <p id="about-head">ABOUT FEST</p>
             <hr id="line1"></hr>
             <p id="about-content">
-              The Eleventh National Level Technical Symposium is going to be
+              The Ninth National Level Technical Symposium is going to be
               conducted at a grand level which includes several most advanced
               technical workshops and events to enhance their skills also there
               are some dazzling performances by our youngsters at this event. We
