@@ -141,7 +141,7 @@ function Nontechnical(){
               <a href="/thr"id="link3" style={{textDecoration:"none",color:"black"}}>
                 <div id="te3"ref={target3} className={`animate__animated ${isVisible3 ? 'animate__zoomIn' : ''}`} onAnimationEnd={onAnimationEnd}>
                     <div id="te-logo">
-                    <img src="/images/THRL.png"></img>
+                    <img src="/images/THRL.jpg"></img>
                     </div>
                     <div id="te-content">
                     <div style={{backgroundColor:"#013158",borderLeft:"5px solid #A4C639",borderRight:"5px solid #A4C639",width:"100%"}}><p id="te-head">Treasure Hunt</p></div>
