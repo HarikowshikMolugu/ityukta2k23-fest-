@@ -68,7 +68,7 @@ function Workshop(){
           <a href="/wbd" id="w-link2" style={{textDecoration:"none",color:"black"}}>
             <div id="workshop2" ref={target2} className={`animate__animated ${isVisible2 ? 'animate__zoomIn' : ''}`} onAnimationEnd={onAnimationEnd}>
             <div id="workshop2-logo">
-            <img src="/images/WBDRL.png"></img>
+            <img src="/images/WBDRL.jpg"></img>
             </div>
             <div id="head-div"><p id="head">Full Stack Development</p></div>
             <div id="workshop2-content">
