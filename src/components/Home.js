@@ -105,7 +105,7 @@ function Home() {
             <div id="c-p-content" style={{borderLeft:"3px solid #FF9900"}}>
             <p id="c-p-h"><u>CHEIFGUEST</u></p>
             <p id="c-p-p" style={{marginBottom:"5px"}}>for Inaugration</p>
-            <p id="c-p-n">Dr.J.V.R.Murthy</p>
+            <p id="c-p-n">DrJ.V.R.Murthy</p>
             <p id="c-p-p">Advisor, Incubation Center JNTUK University</p>
             {/* <p id="c-p-d">Phd in MACHINE LEARNING</p> */}
             </div>
