@@ -16,6 +16,7 @@ function Navbar() {
       <p id="idol">
         ITYUKTA 2K<b id="idol-1">23</b>
       </p>
+    <img className="acm-icon" src="/images/acm-logo.png" />
       <nav ref={navRef}>
         <a href="/" style={{ color: "#00A1F1" }}>
           Home
