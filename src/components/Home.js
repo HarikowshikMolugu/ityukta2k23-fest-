@@ -139,7 +139,7 @@ function Home() {
                   <u>CHAIRPERSON</u>
                 </p>
                 <p id="c-p-n">Dr.B.Tirimula Rao</p>
-                <p id="c-p-p">Head of the Department</p>
+                <p id="c-p-p">Assistant Professor and Head of the Department</p>
                 {/* <p id="c-p-d">Phd in MACHINE LEARNING</p> */}
               </div>
             </div>
