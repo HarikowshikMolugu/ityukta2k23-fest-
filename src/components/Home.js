@@ -99,7 +99,7 @@ function Home() {
         <div id="e-head0">
           <div id="c-p"  >
             <div id="cg1-logo">
-               <img src={cg1}></img>
+               <img src="/images/cg1.jpg"></img>
             </div>
             <div id="c-p-content">
             <p id="c-p-h"><u>CHEIFGUEST</u></p>
@@ -112,7 +112,7 @@ function Home() {
           </div>
           <div id="fa-co"   >
           <div id="cg2-logo">
-          <img src={cg2}></img>
+          <img src="/images/cg2.jpg"></img>
           </div>
           <div id="fa-co-content">
           <p id="fa-co-h"><u>CHEIFGUEST</u></p>
