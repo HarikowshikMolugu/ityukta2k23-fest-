@@ -112,7 +112,7 @@ function Technical(){
             <a href="/cdr" id="link1" style={{textDecoration:"none",color:"black"}}>
                 <div id="te1" ref={target1} className={`animate__animated ${isVisible1 ? 'animate__zoomIn' : ''}`} onAnimationEnd={onAnimationEnd}>
                     <div id="te-logo">
-                    <img src="/images/CDRL.png"></img>
+                    <img src="/images/CDRL.jpg"></img>
                     </div>
                     <div id="te-content">
                         <div style={{backgroundColor:"#013158",borderLeft:"5px solid #A4C639",borderRight:"5px solid #A4C639",width:"100%"}}><p id="te-head">Debugging</p></div>
