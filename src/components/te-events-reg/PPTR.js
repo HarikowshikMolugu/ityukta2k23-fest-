@@ -38,8 +38,8 @@ const CDR = () => {
          </div>
          <div className='qr-div' >
          <p><b style={{color:"#A4C636"}}>PAY USING MOBILE NUMBER :</b><b style={{color:"whitesmoke",fontWeight:"500"}}>9985228800</b></p><br/>
-         <p><b style={{color:"#A4C636"}}>PAY WITH QR CODE :</b></p><br/>
-          <img src='/images/QRCode_70Rs.jpg' className='qr'></img></div>
+         <p><b style={{color:"#A4C636"}}>PAY WITH QR code:</b></p><br/>
+          <img src='/images/QRCode_100Rs.jpg' className='qr'></img></div>
          </div>
          <div id='reg'><a id='reg-btn' href='https://docs.google.com/forms/d/e/1FAIpQLSfwFJ-mvJNqY8SltKhcACY5bKbw3beWhPF82pKVtOkk0WRJpg/viewform?usp=sf_link'>Register</a></div>
         </div>
