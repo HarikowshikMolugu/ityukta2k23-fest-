@@ -37,7 +37,7 @@ const THR = () => {
          <div id='reg'><a id='reg-btn' href='https://docs.google.com/forms/d/e/1FAIpQLSdYlDVQiL-qL_tm88X85sRmDDOPjsYo0hD4CT8qqeh6vMz4Dg/viewform?usp=sf_link'>Register</a></div>
       </div>
       <div id='poster'>
-        <img src="/images/THRL.png"></img>
+        <img src="/images/THRL.jpg"></img>
         </div>
     </div>
    </div>
