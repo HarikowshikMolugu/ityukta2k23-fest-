@@ -98,6 +98,7 @@ function Home() {
        <p id="cg-head">OUR CHEIFGUESTS</p>
         <hr id="cg-line"></hr>
        <div id="e-head0">
+       <a href="https://www.jntucek.ac.in/faculty_profile/71/j.v.r._murthy" id="cg-link1">
           <div id="cg1"  >
             <div id="cg1-logo">
                <img src="/images/cg1.jpg"></img>
@@ -111,6 +112,8 @@ function Home() {
             </div>
             
           </div>
+          </a>
+          <a href="https://www.iimv.ac.in/faculty/profile/josyula-srinivas" id="cg-link2">
           <div id="cg2"   >
           <div id="cg2-logo">
           <img src="/images/cg2.jpg"></img>
@@ -124,7 +127,7 @@ function Home() {
           </div>
 
           </div>
-
+         </a>
         </div>
        </div>
         <div id="e-total">
