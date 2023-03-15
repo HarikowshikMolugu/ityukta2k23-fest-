@@ -1566,8 +1566,9 @@ td a {
 	.sp-main{height: 100vh;}
     .sp-total{background-color: #013158;}
     .sponsers2{
-        
-       
+      margin-left: 10px;
+    border-left: 4px solid #A4C636;   
+     
     padding-top: 50px;
     height: 95%;
     margin-bottom: 5%;
