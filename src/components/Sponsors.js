@@ -2,6 +2,7 @@ import React from 'react'
 import FOOTER from './FOOTER'
 const Sponsors = () => {
   return (
+    <div>
    <div className='sp-main'>
 
     <div className='sp-total' >
@@ -15,8 +16,10 @@ const Sponsors = () => {
         </marquee>
        </div>
        </div>
-       <FOOTER></FOOTER>
+       
        </div>
+       <FOOTER></FOOTER>
+      </div>
   )
 }
 
