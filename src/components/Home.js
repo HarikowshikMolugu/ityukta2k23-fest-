@@ -227,7 +227,7 @@ function Home() {
                 <img src="/images/FBL.jpg"></img>
               </div>
               <div id="cul-content">
-                <p id="e-head">Cultural Night</p>
+                <p id="e-head10">Cultural Night</p>
                 <br />
                 <p id="e-matter">
                   Cultural events provide an opportunity for people to come
@@ -239,7 +239,7 @@ function Home() {
             </div>
             <div id="fb">
               <div id="fb-content">
-                <p id="e-head" style={{ textAlign: "right" }}>
+                <p id="e-head10" style={{ textAlign: "right" }}>
                   Flash Mob
                 </p>
                 <br />
