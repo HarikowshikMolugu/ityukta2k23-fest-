@@ -1380,6 +1380,7 @@ td a {
     padding-left: 20px;
 }
 #spons2{
+    border-radius: 5px;
     padding-top: 20px;
     height: 500px;
     width: 60%;
