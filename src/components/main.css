@@ -740,7 +740,7 @@ a .social-icon {
     height: 100%;
     border-radius: 15px;
 }
-#e-head{
+#e-head10{
     color: #A4C636;
     font-size: 35px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -1556,7 +1556,7 @@ td a {
     #fb{flex-direction: column;margin-top: -40px;padding-top: 0;}
     #cul-logo{width: 90%;height: 200px;}
     #cul-content{width: 90%;height: fit-content;padding-left: 0;}
-    #e-head{font-size: 20px;padding-bottom: 0;}
+    #e-head10{font-size: 20px;padding-bottom: 0;}
     #e-matter{font-size: 15px;}
     #fb-logo{width: 90%;height: 200px;}
     #fb-content{width: 90%;height: fit-content;padding-left: 0}
