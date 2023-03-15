@@ -97,6 +97,22 @@ function Home() {
       <div className="cg-total">
        <p id="cg-head"><b>OUR CHEIFGUESTS</b></p>
         <hr id="cg-line"></hr>
+        <div id="e-head">
+        <div id="e-head0">
+        <div id="cg0"  >
+            <div id="cg1-logo">
+               <img src="/images/cg0.png"></img>
+            </div>
+            <div id="c-p-content" style={{borderLeft:"3px solid #FF9900"}}>
+            <p id="c-p-h"><u>CHEIFGUEST</u></p>
+            
+            <p id="c-p-n">Dr.K.Venkatasubbaiah</p>
+            <p id="c-p-p">Honorable Vice-Chancellor</p>
+            {/* <p id="c-p-d">Phd in MACHINE LEARNING</p> */}
+            </div>
+            
+          </div>
+        </div>
        <div id="e-head0">
        <a href="https://www.jntucek.ac.in/faculty_profile/71/j.v.r._murthy" id="cg-link1">
           <div id="cg1"  >
@@ -129,6 +145,7 @@ function Home() {
           </div>
          </a>
         </div>
+       </div>
        </div>
         <div id="e-total">
         
