@@ -9,7 +9,7 @@ const Sponsors = () => {
        <p id='sp-head'>OUR SPONSORS</p>
       
        <div className='sponsers2'>
-        <marquee className="ph-mar" direction="up">
+        <marquee className="ph-mar" direction="up" scrollamount="10">
           <img id='spons2' src="/images/tm1.jpg"></img>
           <img id='spons2' src="/images/tm2.jpg"></img>
           <img id='spons2' src="/images/tm3.jpg"></img>
