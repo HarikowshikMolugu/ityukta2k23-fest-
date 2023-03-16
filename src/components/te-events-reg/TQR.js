@@ -37,7 +37,7 @@ const TQR = () => {
          <p><b style={{color:"#A4C636"}}>Others get :</b>  <b style={{color:"whitesmoke",fontWeight:"500"}}>PARTICIPATION CERTIFICATE</b></p><br/>
          </div>
          <div className='qr-div' >
-         <p><b style={{color:"#A4C636"}}>PAY USING MOBILE NUMBER :</b><b style={{color:"whitesmoke",fontWeight:"500"}}>9985228800</b></p><br/>
+          <p><b style={{color:"#A4C636"}}>PAY USING UPI ID :</b><b style={{color:"whitesmoke",fontWeight:"500"}}>9985228800@boi</b></p><br/>
          <p><b style={{color:"#A4C636"}}>PAY WITH QR CODE :</b></p><br/>
           <img src='/images/QRCode.jpg' className='qr'></img></div>
          </div>
