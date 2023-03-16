@@ -29,7 +29,7 @@ const MMR = () => {
          <p><b style={{color:"#A4C636"}}>Venue :</b>  <b id="r-venue"style={{color:"whitesmoke",fontWeight:"500"}}>AB-II BLOCK</b></p><br/>
          <p><b style={{color:"#A4C636"}}>Event Registration Fee (per Batch with two members) :</b>  <b style={{color:"whitesmoke",fontWeight:"500"}}>100 Rs</b></p><br/>
          <p><b style={{color:"#A4C636"}}>Prize money :</b>  <b style={{color:"whitesmoke",fontWeight:"500"}}>MOVIE TICKETS</b></p><br/>
-         <p><b style={{color:"#A4C636"}}>PAY USING MOBILE NUMBER :</b><b style={{color:"whitesmoke",fontWeight:"500"}}>9985228800</b></p><br/>
+          <p><b style={{color:"#A4C636"}}>PAY USING UPI ID :</b><b style={{color:"whitesmoke",fontWeight:"500"}}>9985228800@boi</b></p><br/>
          <p><b style={{color:"#A4C636"}}>PAY WITH QR CODE :</b></p>
          <div className='qr-div'><img src='/images/QRCode_100Rs.jpg' className='qr'></img></div>
          <div id='reg'><a id='reg-btn' href='https://docs.google.com/forms/d/e/1FAIpQLSdYlDVQiL-qL_tm88X85sRmDDOPjsYo0hD4CT8qqeh6vMz4Dg/viewform?usp=sf_link'>Register</a></div>
