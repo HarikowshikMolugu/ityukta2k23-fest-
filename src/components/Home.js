@@ -139,6 +139,7 @@ function Home() {
           <p id="c-p-p"style={{marginBottom:"5px"}}>for Valedictory</p>
           <p id="fa-co-n">Dr.Josyula Srinivas</p>
           <p id="c-p-p">Associate Professor of Practice Information Systems</p>
+          <p id="c-p-p">Indian Institute of Management Visakhapatnam</p>
           {/* <p id="fa-co-d">Phd in MACHINE LEARNING</p> */}
           </div>
 
