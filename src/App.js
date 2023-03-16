@@ -24,6 +24,7 @@ import SSR from "./components/nonte-events-reg/SSR";
 import DV from "./components/workshops/dv";
 import WBD from "./components/workshops/wbd";
 import Pagenotfound from "./components/Pagenotfound";
+import WOR3 from './components/workshops/wor3';
 function App() {
   return (
     <div>
@@ -46,7 +47,7 @@ function App() {
         {/* WORKSHOPS */}
         <Route path="/dv" element={<DV />} />
         <Route path="/wbd" element={<WBD />} />
-
+        <Route path='/wor3'  element={<WOR3 />}/>
         {/* NAVBAR */}
 
         <Route path="/Workshop" element={<Workshop />} />
