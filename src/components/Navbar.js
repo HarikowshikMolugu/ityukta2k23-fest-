@@ -25,7 +25,7 @@ function Navbar() {
           <a className="dropbtn" href="/Workshop">
             Workshops{" "}
           </a>
-          <div className="dropdown-content" style={{ marginTop: "100px" }}>
+          <div className="dropdown-content" style={{ marginTop: "130px" }}>
             <a href="/dv" id="dd">
               Data Analytics and Visualization
             </a>
