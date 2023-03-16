@@ -282,9 +282,9 @@ function Home() {
               </p>
               <br />
               <p>
-                <b style={{ color: "#A4C636" }}>PAY USING MOBILE NUMBER :</b>
+                <b style={{ color: "#A4C636" }}>PAY USING UPI ID :</b>
                 <b style={{ color: "whitesmoke", fontWeight: "500" }}>
-                  9985228800
+                  9985228800@boi
                 </b>
               </p>
               <br />
