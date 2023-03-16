@@ -33,7 +33,7 @@ Web development can be done by individuals or teams of developers, and can range
            <p><b style={{color:"#A4C636"}}>Event Time :</b>  <b style={{color:"whitesmoke",fontWeight:"500"}}>Full Day</b></p><br/>
            
            <p><b style={{color:"#A4C636"}}>Workshop Fee (per person) :</b>  <b style={{color:"whitesmoke",fontWeight:"500"}}>600/-</b></p><br/>
-           <p><b style={{color:"#A4C636"}}>PAY USING MOBILE NUMBER :</b><b style={{color:"whitesmoke",fontWeight:"500"}}>9985228800</b></p><br/>
+           <p><b style={{color:"#A4C636"}}>PAY USING UPI ID :</b><b style={{color:"whitesmoke",fontWeight:"500"}}>9985228800@boi</b></p><br/>
            <p><b style={{color:"#A4C636"}}>PAY WITH QR CODE :</b></p>
            <div className='qr-div'><img src='/images/QRCode_600Rs.jpg' className='qr'></img></div>
           <p><b style={{color:"red"}}>NOTE* :</b><br/><br/>  <b style={{color:"whitesmoke",fontWeight:"500"}}>1.Top 15 participants from the Workshop will be provided with a 2 months free summer internship.<br/><br/>2.For better experience carry your own laptops.</b></p><br/>
