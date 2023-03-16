@@ -25,8 +25,8 @@ By the end of the workshop, participants will have gained knowledge about Emergi
               <td><a href='tel:9100546341'>9100546341</a></td>
             </tr>
             <tr>
-              <td id='co-name'>M.PRASANTH</td>
-              <td><a href='tel:94919200312'>9491920031</a></td>
+              <td id='co-name'>T.SULOCHANA</td>
+              <td></td>
             </tr>
            
            </table><br/>
@@ -41,7 +41,7 @@ By the end of the workshop, participants will have gained knowledge about Emergi
            <div id='reg'><a id='reg-btn' href='https://docs.google.com/forms/d/e/1FAIpQLSeOxSPdLy6UpDJd5Hh8D94ynBFTVlHfyojPdz_fh1feG3qQTw/viewform?usp=sf_link'>Register</a></div>
           </div>
           <div id='poster'>
-        <img src="/images/WBDRL.jpg"></img>
+        <img src="/images/WOR3RL.png"></img>
         </div>
         </div>
 
