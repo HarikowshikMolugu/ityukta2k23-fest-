@@ -29,7 +29,7 @@ function Navbar() {
             <a href="/dv" id="dd">
               Data Analytics and Visualization
             </a>
-            <a href="/wbd">Web Development</a>
+            <a href="/wbd" id="dd">Web Development</a>
             <a  href="/wor3">Emerging Technologies and social innovations</a>
           </div>
         </div>
