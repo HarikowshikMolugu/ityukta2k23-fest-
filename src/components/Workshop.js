@@ -4,11 +4,12 @@ import  { useState, useEffect, useRef } from 'react';
 import FOOTER from "./FOOTER";
 
 function Workshop(){
-    const [isVisible1, setIsVisible1] = useState(false);
+   const [isVisible1, setIsVisible1] = useState(false);
     const [isVisible2, setIsVisible2] = useState(false);
+    const [isVisible3, setIsVisible3] = useState(false);
     const target1 = useRef();
     const target2 = useRef();
-  
+    const target3 = useRef();
     useEffect(() => {
       const observer1 = new IntersectionObserver(
         ([entry]) => {
@@ -31,19 +32,30 @@ function Workshop(){
         },
         { threshold: 0.6 }
       );
-  
+      const observer3 = new IntersectionObserver(
+        ([entry]) => {
+          if (entry.isIntersecting) {
+            setIsVisible3(true);
+          } else {
+            setIsVisible3(false);
+          }
+        },
+        { threshold: 0.6 }
+      );
       observer1.observe(target1.current);
       observer2.observe(target2.current);
-  
+      observer3.observe(target2.current);
       return () => {
         observer1.unobserve(target1.current);
         observer2.unobserve(target2.current);
+        observer3.unobserve(target2.current);
       };
     }, []);
   
     const onAnimationEnd = () => {
       setIsVisible1(false);
       setIsVisible2(false);
+      setIsVisible3(false);
     };
     return(
        <div  >
@@ -83,6 +95,25 @@ function Workshop(){
            
             </div>
           </a>  
+          <a href="/wor3" id="w-link3" style={{textDecoration:"none",color:"black"}}>
+            <div id="workshop2" ref={target3} className={`animate__animated ${isVisible3 ? 'animate__zoomIn' : ''}`} onAnimationEnd={onAnimationEnd}>
+            <div id="workshop2-logo">
+            <img src="/images/WOR3RL.png"></img>
+            </div>
+            <div id="head-div"><p id="head">Emerging Technologies and social innovations</p></div>
+            <div id="workshop2-content">
+            <div id="w2-icon">
+            <img src="/images/male-user.png"></img>
+            </div>
+              <div>
+               <p id="name">By Rajkumar Choulapalli </p>
+               <p id="degree">Founder and CEO of TEKNOV8R</p>
+               <p id="degree">Industry veteran with over 24 years of experience.</p></div>
+               </div>
+            
+           
+            </div>
+          </a>
         </div>
           
         </div>
