@@ -13,7 +13,7 @@ const Sponsors = () => {
           <img id='spons2' src="/images/tm1.jpg"></img>
           <img id='spons2' src="/images/tm2.jpg"></img>
           <img id='spons2' src="/images/tm3.jpg"></img>
-          <img id='spons2' src="/images/kvivek.jpg"></img>
+          
           <img id='spons2' src="/images/foc.jpg"></img>
           <img id='spons2' src="/images/gau.jpg"></img>
           <img id='spons2' src="/images/sr.jpg"></img>
